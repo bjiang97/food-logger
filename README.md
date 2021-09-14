@@ -11,7 +11,7 @@ Contribution: camera branch https://github.com/aerostami/food-logger/tree/camera
 ### Pages
 #### Home page
 <!-- ![Home page](/foodlogger_homepage.PNG) -->
-[<img src="/foodlogger_homepage.PNG" width="250"/>](foodlogger_homepage.PNG)
+[<img src="/foodlogger_homepage.PNG" width="400"/>](foodlogger_homepage.PNG)
 
 ### Links
 Please watch the YouTube video shown below for more details.
