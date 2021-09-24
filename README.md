@@ -6,6 +6,12 @@ This is the front-end repo for web, Android, and IOS.
 
 2021 Summer Internship (July - September) as Graduate Student Researcher (Front-end developer) at UC Irvine.
 
+• Developed a new food image recognition logging method by integrating with Google Cloud Vision for a better user experience.
+
+• Built a user fitness and health info interface by synchronizing with Apple HealthKit (iOS user) and Google Fit (Android user).
+
+• Deployed to different platforms (Web, Android, and iOS) by using Capacitor and optimized page details.
+
 Contribution: camera branch https://github.com/aerostami/food-logger/tree/camera
 
 ### Pages
