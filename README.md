@@ -4,7 +4,7 @@ Food logger is a cross-platform application implementing multi-media input: Text
 
 This is the front-end repo for web, Android, and IOS.
 
-2021 Summer Internship (July - September) as Graduate Student Researcher (Front-end developer) at UC Irvine.
+2021 Summer Internship (July - September) as Software Engineer Internship (Full-stack, Graduate Student Researcher) at UC Irvine.
 
 • Developed a new food image recognition logging method by integrating with Google Cloud Vision for a better user experience.
 
